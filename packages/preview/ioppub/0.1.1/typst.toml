@@ -1,5 +1,5 @@
 [package]
-name = "ioppub"
+name = "unofficial-ioppub"
 version = "0.1.1"
 authors = ["Koyo Munechika"]
 license = "MIT"
